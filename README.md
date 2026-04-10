@@ -1,25 +1,25 @@
 # Andri Wild
 
-Software Engineer with a background that bridges hardware and software — from railway signal systems to autonomous robots and web applications.
+Software Engineer studying MSc Engineering at FHNW, with a focus on backend development, web applications, and software for robotics and IoT systems.
 
-Currently working as a research assistant, building AI-powered meeting analysis tools, IoT dashboards, and autonomous navigation systems.
+Currently working as a research assistant at FHNW, developing AI-powered meeting analysis tools, IoT dashboards for biodiversity research, and software for autonomous robots.
 
 ## Tech
 
-**Languages:** Java · Kotlin · Python · TypeScript · JavaScript · C++ · SQL
+**Languages:** Java · Kotlin · Python · TypeScript · JavaScript · C/C++ · SQL
 
-**Backend:** Spring Boot · REST APIs · PostgreSQL
+**Backend:** Spring Boot · REST APIs · PostgreSQL · Kafka
 
-**Frontend:** React · Jetpack Compose
+**Frontend:** React · Angular · Jetpack Compose · HTML/CSS
 
-**Tools & Methods:** Linux · Git · IoT · Edge Computing · Scrum
+**Tools & Methods:** Linux · Git · CI/CD · Docker · ROS2 · Agentic Coding · IoT / Edge Computing · Scrum
 
 ## Projects
 
 | Project | Description |
 |---------|-------------|
-| [Klikkr](https://github.com/andriwild/klikkr) | Smart score tracker app — Kotlin, Jetpack Compose |
-| [Synci](https://github.com/andriwild/synci) | Sport calendar subscription service |
+| [Klikkr](https://klikkr.ch) | Smart score tracker app — Kotlin, Jetpack Compose |
+| [Synci](https://synci.ch) | Sport calendar subscription service |
 
 ## Contact
 
